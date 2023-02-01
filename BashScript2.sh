@@ -1,9 +1,9 @@
 #!/bin/bash
-
+#Script of simple file operations
 
 
 while [[ true ]]; do
-	#statements
+
 echo
 echo "##########################"
 echo
