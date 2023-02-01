@@ -1,7 +1,12 @@
 #!/bin/bash
 
+#Script for create stairs made of increasing number
+#Like:
+#1
+#23
+#456
+#78910
 
-#Cemal Mert Çelik - 2010206047 - II. Öğretim
 counterLine=0
 counterElement=0
 counterNumber=0
