@@ -42,6 +42,7 @@ case ${operation} in
 	;;
 	"7") read -p "Enter tool name : " toolname
 	sudo apt update $toolname
+	;;
 	"8") break
 	;;
 esac
